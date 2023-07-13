@@ -1,0 +1,40 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body
+{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Countainer h2
+{
+    opacity: 0.6;
+    font-size: 40px;
+}
+.Countainer ul
+{
+    opacity: 0.8;
+    font-size: 20px;
+    padding-top: 6px;
+    padding-left: 30px;
+}
+.Countainer button
+{
+    border: 0;
+    outline: 0;
+    width: 90px;
+    height: 40px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+    margin-top: 15px;
+    border-radius: 30px;
+    background: #433f3f;
+}
